@@ -1,4 +1,5 @@
 import toggleActive from './toggleActive.js';
+import handleEditorInput from './editorInput.js';
 
 // select edit and save buttons
 const editButtons = document.querySelectorAll('.edit-button, .save-button');
